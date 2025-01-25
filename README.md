@@ -24,3 +24,7 @@ Time complexity analysis:
 You are usually expected to explain the time complexity of your solution in terms of Big O notation.
 Explanation of approach:
 Many assignments require you to write a detailed explanation of your thought process and the reasoning behind your algorithm choice.
+
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-username>/<your-repository>/blob/main/python_variables.ipynb.ipynb)
+
